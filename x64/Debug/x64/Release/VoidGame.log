@@ -1,0 +1,111 @@
+﻿  VoidGame.cpp
+E:\GitHub\VoidFight\VoidGame\Cam.h(9,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "VoidGame.cpp")
+  
+E:\GitHub\VoidFight\VoidGame\Cam.h(9,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "VoidGame.cpp")
+  
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(41,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(43,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(44,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(46,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(48,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(49,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(50,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(51,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,53): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,53): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,53): warning C4244:             T=float
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,53): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,44): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,44): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,44): warning C4244:             T=float
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(72,44): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(209,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(211,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(212,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(213,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(215,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(216,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(217,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(218,81): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,58): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,58): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,58): warning C4244:             T=float
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,58): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,49): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,49): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,49): warning C4244:             T=float
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(220,49): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(222,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(223,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(224,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(225,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(247,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(248,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(249,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(250,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(255,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(255,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(255,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(255,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(306,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(306,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(306,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(306,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(334,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,71): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,71): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,71): warning C4244:             T=float
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,71): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,62): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,62): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,62): warning C4244:             T=float
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(377,62): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(381,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(381,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(393,54): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(393,54): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(393,54): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(393,54): warning C4244:             _Ty=int
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(393,54): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(394,58): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(394,58): warning C4244:         with
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(394,58): warning C4244:         [
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(394,58): warning C4244:             _Ty=int
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(394,58): warning C4244:         ]
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(413,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(413,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(414,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(419,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(419,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(420,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(428,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(428,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(429,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(434,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(434,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(435,94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(445,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(445,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(446,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(448,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(448,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(449,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(455,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(455,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(456,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(458,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(458,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(459,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(471,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(471,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(554,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\GitHub\VoidFight\VoidGame\VoidGame.cpp(554,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "E:\GitHub\VoidFight\x64\Release\VoidGame.exe"
